@@ -1,8 +1,19 @@
 # 🍸Drink Master App 
 
 ### 👋 Welcome to the app!
-Our app is more than just a collection of drinks - its a designed to be your own digital cocktail maker!
-This app will allow you to easily find and add your favorite cocktail recipes and create your own unique ones. 
+Our app is more than just a collection of drinks - its a designed to be your own digital cocktail maker! This app will allow you to easily find and add your favorite cocktail recipes and create your own unique ones. 
+
+**📌 This is a team project. I worked on a part of it:**
+
+**Welcome Page / Signup Page / Signin Page**
+
+- Authentication (/auth)
+  
+- Creation of endpoints, User model, routers, auth controller and auxiliary middles for /signup /signin /signout.
+  
+- Authorisation layer for checking the availability of a token and access rights.
+  
+- Readme.md 
 
 ## Tech Stack 
 The project builds RESTful APIs using Node.js, Express and Mongoose
